@@ -1,0 +1,950 @@
+{
+  "phi_n_enhancement_factor": 1.0,
+  "metamaterial_total_amplification": 1.0,
+  "tensor_validation_score": 0.0,
+  "energy_conservation_quality": 0.600018159971905,
+  "total_enhancement_factor": 1.0,
+  "mathematical_consistency_score": 0.24000726398876202,
+  "physical_validity_score": 0.0,
+  "computational_efficiency_score": 0.15000453999297625,
+  "overall_optimization_quality": 0.09000272402078575,
+  "convergence_achieved": "False",
+  "optimization_time": 0.13348007202148438,
+  "iterations_required": 100,
+  "component_contributions": {
+    "phi_n_series": 1.0,
+    "metamaterial_amplification": 1.0,
+    "tensor_validation": 0.0,
+    "energy_conservation": 0.600018159971905
+  },
+  "constraint_violations": {},
+  "optimization_history": [
+    {
+      "iteration": 0,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0015048980712890625
+    },
+    {
+      "iteration": 1,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010023117065429688
+    },
+    {
+      "iteration": 2,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0013794898986816406
+    },
+    {
+      "iteration": 3,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010344982147216797
+    },
+    {
+      "iteration": 4,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.002053976058959961
+    },
+    {
+      "iteration": 5,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010035037994384766
+    },
+    {
+      "iteration": 6,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010175704956054688
+    },
+    {
+      "iteration": 7,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0020737648010253906
+    },
+    {
+      "iteration": 8,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.001049041748046875
+    },
+    {
+      "iteration": 9,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010020732879638672
+    },
+    {
+      "iteration": 10,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010156631469726562
+    },
+    {
+      "iteration": 11,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012576580047607422
+    },
+    {
+      "iteration": 12,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012631416320800781
+    },
+    {
+      "iteration": 13,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010027885437011719
+    },
+    {
+      "iteration": 14,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0015034675598144531
+    },
+    {
+      "iteration": 15,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0013515949249267578
+    },
+    {
+      "iteration": 16,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0011608600616455078
+    },
+    {
+      "iteration": 17,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010039806365966797
+    },
+    {
+      "iteration": 18,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0014655590057373047
+    },
+    {
+      "iteration": 19,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0009987354278564453
+    },
+    {
+      "iteration": 20,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012638568878173828
+    },
+    {
+      "iteration": 21,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0015032291412353516
+    },
+    {
+      "iteration": 22,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010857582092285156
+    },
+    {
+      "iteration": 23,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.001247406005859375
+    },
+    {
+      "iteration": 24,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012412071228027344
+    },
+    {
+      "iteration": 25,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.001489877700805664
+    },
+    {
+      "iteration": 26,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.001004934310913086
+    },
+    {
+      "iteration": 27,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0014171600341796875
+    },
+    {
+      "iteration": 28,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010042190551757812
+    },
+    {
+      "iteration": 29,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0025751590728759766
+    },
+    {
+      "iteration": 30,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0011394023895263672
+    },
+    {
+      "iteration": 31,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0013580322265625
+    },
+    {
+      "iteration": 32,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012586116790771484
+    },
+    {
+      "iteration": 33,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012416839599609375
+    },
+    {
+      "iteration": 34,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012485980987548828
+    },
+    {
+      "iteration": 35,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.001253366470336914
+    },
+    {
+      "iteration": 36,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0
+    },
+    {
+      "iteration": 37,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010120868682861328
+    },
+    {
+      "iteration": 38,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012140274047851562
+    },
+    {
+      "iteration": 39,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012519359588623047
+    },
+    {
+      "iteration": 40,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.001234292984008789
+    },
+    {
+      "iteration": 41,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.002301454544067383
+    },
+    {
+      "iteration": 42,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0011408329010009766
+    },
+    {
+      "iteration": 43,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0014455318450927734
+    },
+    {
+      "iteration": 44,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0005028247833251953
+    },
+    {
+      "iteration": 45,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.001420736312866211
+    },
+    {
+      "iteration": 46,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012464523315429688
+    },
+    {
+      "iteration": 47,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012383460998535156
+    },
+    {
+      "iteration": 48,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012390613555908203
+    },
+    {
+      "iteration": 49,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.001233816146850586
+    },
+    {
+      "iteration": 50,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012288093566894531
+    },
+    {
+      "iteration": 51,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012230873107910156
+    },
+    {
+      "iteration": 52,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.002094745635986328
+    },
+    {
+      "iteration": 53,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0013687610626220703
+    },
+    {
+      "iteration": 54,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010030269622802734
+    },
+    {
+      "iteration": 55,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0013625621795654297
+    },
+    {
+      "iteration": 56,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012562274932861328
+    },
+    {
+      "iteration": 57,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0013260841369628906
+    },
+    {
+      "iteration": 58,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012729167938232422
+    },
+    {
+      "iteration": 59,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0
+    },
+    {
+      "iteration": 60,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0025186538696289062
+    },
+    {
+      "iteration": 61,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0011835098266601562
+    },
+    {
+      "iteration": 62,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012471675872802734
+    },
+    {
+      "iteration": 63,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012407302856445312
+    },
+    {
+      "iteration": 64,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012187957763671875
+    },
+    {
+      "iteration": 65,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0011029243469238281
+    },
+    {
+      "iteration": 66,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012373924255371094
+    },
+    {
+      "iteration": 67,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0015032291412353516
+    },
+    {
+      "iteration": 68,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0014905929565429688
+    },
+    {
+      "iteration": 69,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012242794036865234
+    },
+    {
+      "iteration": 70,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012288093566894531
+    },
+    {
+      "iteration": 71,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0015034675598144531
+    },
+    {
+      "iteration": 72,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0014941692352294922
+    },
+    {
+      "iteration": 73,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012264251708984375
+    },
+    {
+      "iteration": 74,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012257099151611328
+    },
+    {
+      "iteration": 75,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0005030632019042969
+    },
+    {
+      "iteration": 76,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0014767646789550781
+    },
+    {
+      "iteration": 77,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0013065338134765625
+    },
+    {
+      "iteration": 78,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012450218200683594
+    },
+    {
+      "iteration": 79,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0020036697387695312
+    },
+    {
+      "iteration": 80,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.001165628433227539
+    },
+    {
+      "iteration": 81,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012543201446533203
+    },
+    {
+      "iteration": 82,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0
+    },
+    {
+      "iteration": 83,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010156631469726562
+    },
+    {
+      "iteration": 84,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012111663818359375
+    },
+    {
+      "iteration": 85,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010023117065429688
+    },
+    {
+      "iteration": 86,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010364055633544922
+    },
+    {
+      "iteration": 87,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012264251708984375
+    },
+    {
+      "iteration": 88,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.002774477005004883
+    },
+    {
+      "iteration": 89,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010025501251220703
+    },
+    {
+      "iteration": 90,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010159015655517578
+    },
+    {
+      "iteration": 91,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0013422966003417969
+    },
+    {
+      "iteration": 92,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010025501251220703
+    },
+    {
+      "iteration": 93,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0010619163513183594
+    },
+    {
+      "iteration": 94,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012595653533935547
+    },
+    {
+      "iteration": 95,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012629032135009766
+    },
+    {
+      "iteration": 96,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012481212615966797
+    },
+    {
+      "iteration": 97,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0017285346984863281
+    },
+    {
+      "iteration": 98,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012333393096923828
+    },
+    {
+      "iteration": 99,
+      "phi_enhancement": 1.0,
+      "metamaterial_amplification": 1.0,
+      "tensor_validation_score": 0.0,
+      "energy_conservation_quality": 0.600018159971905,
+      "overall_quality": 0.09000272402078575,
+      "iteration_time": 0.0012505054473876953
+    }
+  ],
+  "metadata": {
+    "framework_version": "1.0.0",
+    "optimization_timestamp": 1751603904.5944054,
+    "configuration": {
+      "phi_n_max_order": 150,
+      "shanks_transformation_depth": 5,
+      "richardson_extrapolation_order": 4,
+      "series_convergence_tolerance": 1e-12,
+      "max_amplification_levels": 8,
+      "cascade_efficiency_target": 0.95,
+      "physical_constraint_enforcement": 0.9,
+      "adaptive_control_sensitivity": 0.1,
+      "bianchi_tolerance": 1e-12,
+      "symmetry_tolerance": 1e-12,
+      "ricci_symmetry_tolerance": 1e-12,
+      "einstein_conservation_tolerance": 1e-10,
+      "quantum_classical_coupling_target": 1e-20,
+      "cross_scale_damping_optimal": 0.01,
+      "conservation_quality_target": 0.95,
+      "energy_drift_tolerance": 1e-10,
+      "optimization_convergence_tolerance": 1e-08,
+      "max_optimization_iterations": 100,
+      "quality_improvement_threshold": 0.01,
+      "system_stability_requirement": 0.9
+    },
+    "initialization_time": 0.0
+  }
+}
