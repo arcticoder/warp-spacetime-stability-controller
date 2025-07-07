@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-07-06T17:17:44.795214",
+  "summary": {
+    "total_concerns_addressed": 0,
+    "resolved_concerns": 0,
+    "failed_concerns": 0,
+    "success_rate": 0.0,
+    "average_confidence": 0.0
+  },
+  "severity_breakdown": {
+    "critical_total": 0,
+    "critical_resolved": 0,
+    "critical_success_rate": 0.0,
+    "high_total": 0,
+    "high_resolved": 0,
+    "high_success_rate": 0.0
+  },
+  "resolution_methods": {},
+  "repository_status": {},
+  "recommendations": [
+    "Consider additional validation for failed resolution strategies",
+    "Focus on critical severity concerns requiring enhanced resolution",
+    "Improve resolution method confidence through enhanced validation"
+  ]
+}
